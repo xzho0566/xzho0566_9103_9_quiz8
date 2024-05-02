@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  height: 250vh;
+  width: 150vh;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 250vh;
+  width: 150vw;
+  background-image: url("assets/1.jpeg");
+  background-size: cover;
+}
+.background .water{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url("assets/2.png");
+  background-size: cover;
+  filter: url("#turbulence");
+}
