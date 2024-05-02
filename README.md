@@ -1,7 +1,7 @@
 # xzho0566_9103_9_quiz8
 
 # Imaging Technique Inspiration
-##Imaging of inspiration
+## Imaging of inspiration
 1.Water Lilies
 ![An image of the Water Lilies](https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/1686,/0/default.jpg)
 2.The Beach at Sainte-Adresse
@@ -9,7 +9,7 @@
 These two images inspired me with the effect of water flowing. In my inspiration, the most important point of their dynamic effect should be the flow of water or the ripple effect when clicking on the images.
 
 # Coding Technique Exploration
-## <feTurbulence>
+## feTurbulence
 While looking for the dynamic effect I wanted, I found <feTurbulence> as the code to accomplish the effect I wanted. And in the Codrops website, gives animations that can be used to test the effect for learners to test the effect they want. This was useful for me and to better understand the effect of changing data on water flow fluctuations.
 ！[An image of screenshot 1](https://github.com/xzho0566/xzho0566_9103_9_quiz8/blob/main/p5.js/assets/screenshot%201.png)
 [Link of tech Water effect](https://www.youtube.com/watch?v=q-i0rZBZvBk)
