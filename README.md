@@ -2,9 +2,9 @@
 
 # Imaging Technique Inspiration
 ## Imaging of inspiration
-1. Water Lilies ![An image of the Water Lilies](https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/1686,/0/default.jpg)
+1. Water Lilies ![An image of the Water Lilies](https://github.com/xzho0566/xzho0566_9103_9_quiz8/blob/main/p5.js/assets/Water%20Lilies.jpeg)
 
-2. The Beach at Sainte-Adresse![An image of the The Beach at Sainte-Adresse](https://www.artic.edu/iiif/2/95be2572-b53d-8e7b-abc9-10eb48d4fa5d/full/1686,/0/default.jpg)
+2. The Beach at Sainte-Adresse![An image of the The Beach at Sainte-Adresse](https://github.com/xzho0566/xzho0566_9103_9_quiz8/blob/main/p5.js/assets/The%20Beach%20at%20Sainte-Adresse.jpeg)
 
 These two images inspired me with the effect of water flowing. In my inspiration, the most important point of their dynamic effect should be the flow of water or the ripple effect when clicking on the images.
 
